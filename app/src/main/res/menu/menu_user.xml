@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemDeposit"
+        android:title="Nạp coin" />
+    <item
+        android:id="@+id/itemEditProfile"
+        android:title="Chỉnh sửa thông tin cá nhân" />
+    <item
+        android:id="@+id/itemLogout"
+        android:title="Đăng xuất" />
+</menu>
